@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to My Sample Website!
 
-You can use the [editor on GitHub](https://github.com/MadisonRobinson/gh-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For the basics section of our class, I will be demonstrating a very basic knowledge of Markdown on this page. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First of all, I will start by demonstrating a header.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### This is My New Header
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Another use of markdown is the list. This can be useful for many different applications
 
-[Link](url) and ![Image](src)
-```
+1. item 1
+2. item 2
+3. item 3
+4. item 4
+5. item 5
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Next, I will demonstrate a table. These can be filled with numbers, letters, or whatever information pertains to the table. I have chosen nonsensical letters simply to show the structure and look of a table.
 
-### Jekyll Themes
+| Titel 1       | Title 2       |Title 3|
+| ------------- |:-------------:| -----:|
+| a             | b             | c     |
+| d             | e             | f     |
+| g             | g             | h     |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MadisonRobinson/gh-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+The final task is to demonstrate that I understand how to make a link. My link can be found [here](www.google.com) and it should simply link you to google. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please let me know if you have any questions or concerns!
+Thanks!
