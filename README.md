@@ -28,7 +28,7 @@ Next, I will demonstrate a table. These can be filled with numbers, letters, or 
 | g             | g             | h     |
 
 
-The final task is to demonstrate that I understand how to make a link. My link can be found [here](www.google.com) and it should simply link you to google. 
+The final task is to demonstrate that I understand how to make a link. My link can be found [here](https://www.google.com) and it should simply link you to google. 
 
 Please let me know if you have any questions or concerns!
 Thanks!
